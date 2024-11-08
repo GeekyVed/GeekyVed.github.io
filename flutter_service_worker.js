@@ -4,12 +4,13 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
-"main.dart.js": "ad764781c6592062405776568dda879a",
+"main.dart.js": "38ca36e09351ef5e326b2897fb21ce07",
 "assets/FontManifest.json": "533db2964f00aa0a56d9c03607f21c52",
-"assets/AssetManifest.bin": "1e8f704f920b6e321dbd64a813e6153f",
+"assets/AssetManifest.bin": "d3ef7dc185e375401f574860a7ce45d8",
 "assets/fonts/MaterialIcons-Regular.otf": "890db28ba700a6df0c467cdab9aa4e5c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/golden_toolkit/fonts/Roboto-Regular.ttf": "ac3f799d5bbaf5196fab15ab8de8431c",
+"assets/assets/apple_logo.png": "6791cf6f3424b45f70ab52dbc475f337",
 "assets/assets/icons/notes.png": "861ce9aec5830111b14a97ac4b6fc052",
 "assets/assets/icons/dev.png": "6b5e3acdf74073b083fef472a2f566ce",
 "assets/assets/icons/settings.png": "34e025b59c31847402e6d84a356fac0e",
@@ -35,8 +36,8 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "assets/assets/icons/books.png": "32d1cb56c7f48728714818413ac59f93",
 "assets/NOTICES": "732f44ac93f79247ac1c342e43440a58",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-"assets/AssetManifest.json": "0ba84ce7c261fd9487302d7d082ba5c2",
-"assets/AssetManifest.bin.json": "3357dbca04f58adc1f14f8c33b3492c1",
+"assets/AssetManifest.json": "04b352c7685c9c867df4b33b4779e0fd",
+"assets/AssetManifest.bin.json": "a9b92a38c927df731d797fe9b166ec3c",
 "index.html": "52ba7b1eb78eeda0641300d2db8a012e",
 "/": "52ba7b1eb78eeda0641300d2db8a012e",
 "manifest.json": "dfb4761cbb8a1708b63170d1a6852c8d",
@@ -56,7 +57,7 @@ const RESOURCES = {"flutter.js": "f393d3c16b631f36852323de8e583132",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "version.json": "a69cf1dade9a673167ce01cc75c602eb",
-"flutter_bootstrap.js": "d7d16b7da25f3af8370ca1a7fd19aadb"};
+"flutter_bootstrap.js": "525531965d68ad1c5840b37e1994abc3"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
